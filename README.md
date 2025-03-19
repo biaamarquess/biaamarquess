@@ -5,16 +5,16 @@
 </div>
 
 <p align="center">
-  <i>✨ Olá! Eu sou [Seu Nome] e amo coisas fofas e rosas! 💕</i>
+  <i>✨ Olá! Eu sou Bia e seja bem vindo(a) ao meu GitHub! 💕</i>
 </p>
 
 ---
 
 ### **Sobre Mim** 🎀
 
-- 🌸 Amo programar e criar coisas bonitas.
-- 🎀 Adoro gatos, flores e tudo que é fofo.
-- 💕 Estou sempre aprendendo coisas novas.
+- 🌸 Amo programar e criar coisas novas e diferentes.
+- 🎀 Adoro gatos, flores.
+- 💕 Estou sempre em busca de aprender coisas novas.
 
 ---
 
@@ -33,22 +33,14 @@
 
 ---
 
-### **Estatísticas do GitHub** 📊
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&bg_color=pink&title_color=fff&text_color=fff" alt="Estatísticas">
-</div>
-
----
-
 ### **Vamos nos Conectar!** 💌
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-usuario">
+  <a href="https://www.linkedin.com/in/beatriz-marques-ba1585335/">
     <img src="https://img.shields.io/badge/LinkedIn-Rosa?style=for-the-badge&logo=linkedin&logoColor=white&color=pink" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/seu-usuario">
-    <img src="https://img.shields.io/badge/Instagram-Rosa?style=for-the-badge&logo=instagram&logoColor=white&color=pink" alt="Instagram">
+  <a href="https://www.instagram.com/its.triz_/">
+    <img src="https://img.shields.io/badge/Instagram-Rosa?style=for-the-badge&logo=instagram&logoColor=white&color=pin" alt="Instagram">
   </a>
 </p>
 
