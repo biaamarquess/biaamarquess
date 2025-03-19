@@ -1,7 +1,7 @@
 # 🌸 Bem-vindo ao Meu Perfil! 🌸
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="200" alt="Gif fofo">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTh0bTk0ajI2dzNhaWJidjczMWY2cjM3b3A2Znl2Z3dncGRiZjcwbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4asRlBKdJaPeBahjcL/giphy.gif" width="200" alt="Gif fofo">
 </div>
 
 <p align="center">
@@ -23,21 +23,6 @@
 ![Badge](https://img.shields.io/badge/HTML-Rosa?style=for-the-badge&logo=html5&logoColor=white&color=pink)
 ![Badge](https://img.shields.io/badge/CSS-Rosa?style=for-the-badge&logo=css3&logoColor=white&color=pink)
 ![Badge](https://img.shields.io/badge/JavaScript-Rosa?style=for-the-badge&logo=javascript&logoColor=white&color=pink)
-
----
-
-### **Projetos Fofos** 🌸
-
-- 🎀 [Projeto 1](link) - Um projeto incrível e fofo.
-- 💕 [Projeto 2](link) - Outro projeto super legal.
-
----
-
-### **Estatísticas do GitHub** 📊
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical&bg_color=pink&title_color=fff&text_color=fff" alt="Estatísticas">
-</div>
 
 ---
 
