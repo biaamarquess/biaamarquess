@@ -28,7 +28,7 @@
 
 ### **Projetos Fofos** 🌸
 
-- 🎀 [Projeto 1](link) - Um projeto incrível e fofo.
+- 🎀 [Projeto 1](link) - Um projeto de fofo e divertido.
 - 💕 [Projeto 2](link) - Outro projeto super legal.
 
 ---
