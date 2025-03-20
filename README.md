@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <i>✨ Olá! Eu sou Bia e seja bem vindo(a) ao meu GitHub! 💕</i>
+  <i>✨ Olá! Eu sou Beatriz e seja bem vindo(a) ao meu GitHub! 💕</i>
 </p>
 
 ---
