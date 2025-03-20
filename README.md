@@ -28,8 +28,9 @@
 
 ### **Projetos Fofos** 🌸
 
-- 🎀 [Projeto 1](link) - Um projeto de fofo e divertido.
+- 🎀 [Projeto 1](link) - Um projeto fofo e divertido.
 - 💕 [Projeto 2](link) - Outro projeto super legal.
+ <i> Esses dois foram desenvolvidos no Curso tecnico de Desenvolvimento de sistemas </i>
 
 ---
 
