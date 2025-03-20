@@ -35,7 +35,7 @@
 
 ---
 
-### **Vamos nos Conectar!** 💌
+### **Entre em contato!!** 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/beatriz-marques-ba1585335/">
