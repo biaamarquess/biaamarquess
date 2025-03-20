@@ -30,7 +30,7 @@
 
 - 🎀 [Projeto 1](link) - Um projeto fofo e divertido.
 - 💕 [Projeto 2](link) - Outro projeto super legal.
-- <i> Esses dois foram desenvolvidos durante Curso tecnico de Desenvolvimento de sistemas </i>
+- <i> Esses dois foram desenvolvidos durante Curso tecnico de Desenvolvimento de sistemas, você pode ver também outros projetos navegando pelos meus repositórios!</i>
 
 ---
 
