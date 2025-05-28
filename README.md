@@ -13,7 +13,6 @@
 ### **Sobre Mim** 🎀
 
 - 🌸 Amo programar e criar coisas novas e diferentes.
-- 🎀 Adoro gatos e flores.  
 - 💕 Estou sempre em busca de aprender coisas novas.
 
 ---
