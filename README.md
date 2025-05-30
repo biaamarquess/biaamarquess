@@ -25,11 +25,6 @@
 ![Badge](https://img.shields.io/badge/JavaScript-Rosa?style=for-the-badge&logo=javascript&logoColor=white&color=pink)
 
 ---
-
-### **Projetos Fofos** 🌸
-
-- 🎀 [Projeto 1]() - Um projeto super divertido.
-- 💕 [Projeto 2]() - Outro projeto super legal.
   
 <i> Esses dois foram desenvolvidos durante Curso tecnico de Desenvolvimento de sistemas, você pode ver também outros projetos navegando pelos meus repositórios!</i>
 
