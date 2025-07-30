@@ -39,9 +39,7 @@
   <a href="https://www.instagram.com/its.triz_/">
     <img src="https://img.shields.io/badge/Instagram-Rosa?style=for-the-badge&logo=instagram&logoColor=white&color=pink" alt="Instagram">
   </a>
-  <a href="https://github.com/seu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Rosa?style=for-the-badge&logo=github&logoColor=white&color=pink" alt="GitHub">
-  </a>
+  
 </p>
 
 ---
