@@ -1,4 +1,4 @@
-# 🎀 Bem-vindo(a) ao Meu Perfil! 🎀
+#  Bem-vindo(a) ao Meu Perfil! 
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ6cjN0eHYwbTY0MXRzdG9uejZoNWp5NDBtNzBmNHU2dmFidXcyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="200" alt="Gif fofo">
@@ -12,7 +12,7 @@
 
 ### **Sobre Mim** 🎀
 
-- 🌸 Amo programar e criar coisas novas e diferentes.
+- 🌸 Amo programar e criar coisas criativas e diferentes.
 - 💕 Estou sempre em busca de aprender coisas novas.
 
 ---
