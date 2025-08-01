@@ -38,7 +38,7 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
   
 ---
 
-### **Estatísticas do GitHub ** 📊
+### **Estatísticas do GitHub** 📊
 
 <div align="center">
   <a href="https://github.com/biaamarquess">
