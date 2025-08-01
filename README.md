@@ -27,7 +27,7 @@
 
 ---
   
-<i>Grandes inovações começam com linhas simples de código, escritas por alguém que acreditou e nunca desistiu, mesmo quando tudo parecia impossível.</i>
+<i>Programar é a arte de transformar problemas complexos em soluções simples e elegantes. Cada desafio vencido no código é uma conquista que fortalece sua jornada rumo à maestria.</i>
 
 ---
 
