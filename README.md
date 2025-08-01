@@ -27,7 +27,7 @@
 
 ---
   
-<i>Não tenha medo dos desafios no código. Eles são oportunidades para aprender, crescer e se tornar um programador mais criativo e resiliente.</i>
+<i>Grandes inovações começam com linhas simples de código, escritas por alguém que acreditou e nunca desistiu, mesmo quando tudo parecia impossível.</i>
 
 ---
 
