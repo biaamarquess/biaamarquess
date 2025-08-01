@@ -1,25 +1,31 @@
 #  Bem-vindo(a) ao Meu Perfil! 
 
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ6cjN0eHYwbTY0MXRzdG9uejZoNWp5NDBtNzBmNHU2dmFidXcyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="200" alt="Gif fofo">
-</div>
-
-<p align="center">
-  <br>
-  <i>✨ Olá! Eu sou Beatriz e seja bem vindo(a) ao meu GitHub! 💕</i>
-</p>
-
----
-
-### **Sobre Mim** 🎀
-
-Estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia enquanto curso Desenvolvimento de Sistemas no SENAI. Minha paixão por programação vai além do código: adoro desafios que unem front-end e back-end.
-
-Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre experimentando ferramentas, linguagens e projetos. Cada repositório é um pedacinho do meu crescimento, dos desafios que enfrentei e das soluções que descobri no caminho. 
-
-Tenho como objetivo me profissionalizar na área da programação. Quero dominar tanto as bases técnicas quanto as habilidades práticas do mercado, construindo uma carreira sólida como desenvolvedora full-stack.
-
-- 🌸 Um programador não espera oportunidades — ele as cria com ‘if’, ‘else’ e muita persistência.
+<table>
+  <tr>
+    <td>
+      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ6cjN0eHYwbTY0MXRzdG9uejZoNWp5NDBtNzBmNHU2dmFidXcyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="200" alt="Gif fofo">
+    </td>
+    <td style="padding-left: 20px; vertical-align: top;">
+      <p><i>✨ Olá! Eu sou Beatriz e seja bem vindo(a) ao meu GitHub! 💕</i></p>
+      <h3>Sobre Mim 🎀</h3>
+      <p>
+        Estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia enquanto curso Desenvolvimento de Sistemas no SENAI.
+        Minha paixão por programação vai além do código: adoro desafios que unem front-end e back-end.
+      </p>
+      <p>
+        Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre experimentando ferramentas, linguagens e projetos.
+        Cada repositório é um pedacinho do meu crescimento, dos desafios que enfrentei e das soluções que descobri no caminho.
+      </p>
+      <p>
+        Tenho como objetivo me profissionalizar na área da programação. Quero dominar tanto as bases técnicas quanto as habilidades práticas
+        do mercado, construindo uma carreira sólida como desenvolvedora full-stack.
+      </p>
+      <ul>
+        <li>🌸 Um programador não espera oportunidades — ele as cria com ‘if’, ‘else’ e muita persistência.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
