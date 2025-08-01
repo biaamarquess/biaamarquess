@@ -64,8 +64,6 @@
 </picture>
 <br><br>
 
----
-
 <p align="center">
   <i>✨ Obrigada por visitar meu perfil! Tenha um dia incrível! 💕</i>
 </p>
