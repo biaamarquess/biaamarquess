@@ -13,8 +13,13 @@
 
 ### **Sobre Mim** 🎀
 
-- 🌸 Amo programar e criar coisas criativas e diferentes.
-- 💕 Estou sempre em busca de aprender coisas novas.
+Estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia enquanto curso Desenvolvimento de Sistemas no SENAI. Minha paixão por programação vai além do código: adoro desafios que unem front-end (criando interfaces bonitas e funcionais) e back-end (construindo a lógica que faz tudo funcionar).
+
+Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre experimentando ferramentas, linguagens e projetos. Cada repositório é um pedacinho do meu crescimento, dos desafios que enfrentei e das soluções que descobri no caminho. 
+
+Acredito que a programação é uma ferramenta poderosa para transformar ideias em realidade — seja automatizando tarefas, criando soluções inovadoras ou simplesmente facilitando a vida das pessoas. 
+
+- 🌸 Um programador não espera oportunidades — ele as cria com ‘if’, ‘else’ e muita persistência.
 
 ---
 
