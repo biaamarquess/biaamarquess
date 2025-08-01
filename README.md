@@ -60,6 +60,7 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
   <a href="https://www.linkedin.com/in/beatriz-marques-ba1585335/ target_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rosa?style=for-the-badge&logo=linkedin&logoColor=white&color=pink" alt="LinkedIn">
   </a>
+- 📧 Email: beatrizmarquessouza123@gmail.com
 
 </p>
 
