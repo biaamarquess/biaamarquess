@@ -31,9 +31,11 @@ Tenho como objetivo me profissionalizar na área da programação. Quero dominar
 ![Badge](https://img.shields.io/badge/Python-Rosa?style=for-the-badge&logo=python&logoColor=white&color=pink)
 
 ---
-  
-<i>Programar é a arte de transformar problemas complexos em soluções simples e elegantes. Cada desafio vencido no código é uma conquista que fortalece sua jornada rumo à maestria.</i>
 
+### **Sobre meus Repositórios** 📚
+
+Cada repositório representa uma parte da minha jornada, com os aprendizados que conquistei, obstáculos que superei e as soluções que encontrei ao longo do caminho.
+  
 ---
 
 ### **Estatísticas do GitHub ** 📊
@@ -47,9 +49,7 @@ Tenho como objetivo me profissionalizar na área da programação. Quero dominar
 
 ---
 
-### **Sobre meus Repositórios** 📚
-
-Cada repositório representa uma parte da minha jornada, com os aprendizados que conquistei, obstáculos que superei e as soluções que encontrei ao longo do caminho.
+<i>Programar é a arte de transformar problemas complexos em soluções simples e elegantes. Cada desafio vencido no código é uma conquista que fortalece sua jornada rumo à maestria.</i>
 
 ---
 
