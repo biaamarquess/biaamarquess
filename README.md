@@ -27,15 +27,7 @@
 
 ---
   
-<i> Esses dois foram desenvolvidos durante Curso tecnico de Desenvolvimento de sistemas, você pode ver também outros projetos navegando pelos meus repositórios!</i>
-
----
-
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-triz&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-triz&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-triz&theme=radical)
+<i>Aprender a programar é como aprender a transformar ideias em realidade — uma linha de código por vez.</i>
 
 ---
 
