@@ -38,7 +38,7 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
   
 ---
   <div align="center">
-    ### **Estatísticas do GitHub** 📊
+    <p>### **Estatísticas do GitHub** 📊</p>
   </div>
 <br>
 <div align="center">
