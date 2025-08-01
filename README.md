@@ -27,7 +27,7 @@
 
 ---
   
-<i>Aprender a programar é como aprender a transformar ideias em realidade — uma linha de código por vez.</i>
+<i>Cada linha de código é um passo rumo a algo maior. Errar faz parte — persistir é o que transforma você em desenvolvedor.</i>
 
 ---
 
