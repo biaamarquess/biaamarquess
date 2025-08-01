@@ -11,7 +11,7 @@
 
 ---
 
-### Sobre Mim 🎀
+### *Sobre Mim* 🎀
 
 Estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia enquanto curso Desenvolvimento de Sistemas no SENAI. Minha paixão por programação vai além do código: adoro desafios que unem front-end (criando interfaces bonitas e funcionais) e back-end (construindo a lógica que faz tudo funcionar).
 
@@ -21,7 +21,7 @@ Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre expe
 
 ---
 
-### **Tecnologias que Uso** 💻
+### *Tecnologias que Uso* 💻
 
 ![Badge](https://img.shields.io/badge/HTML-Rosa?style=for-the-badge&logo=html5&logoColor=white&color=pink)
 ![Badge](https://img.shields.io/badge/CSS-Rosa?style=for-the-badge&logo=css3&logoColor=white&color=pink)
@@ -35,7 +35,7 @@ Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre expe
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 *Estatísticas do GitHub*
 
 <div align="center">
   <a href="https://github.com/biaamarquess">
@@ -46,7 +46,7 @@ Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre expe
 
 ---
 
-### **Entre em contato!** ☕ 
+### *Entre em contato!* ☕ 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/beatriz-marques-ba1585335/">
