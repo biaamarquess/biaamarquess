@@ -57,7 +57,7 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
 ### **Entre em contato!** ☕ 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/beatriz-marques-ba1585335/ target="_blank">
+  <a href="https://www.linkedin.com/in/beatriz-marques-ba1585335/ target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rosa?style=for-the-badge&logo=linkedin&logoColor=white&color=pink" alt="LinkedIn">
   </a>
 </p>
