@@ -6,7 +6,7 @@
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ6cjN0eHYwbTY0MXRzdG9uejZoNWp5NDBtNzBmNHU2dmFidXcyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="200" alt="Gif fofo">
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
-      <p><i>✨ Olá! Eu sou Beatriz e seja bem vindo(a) ao meu GitHub! 💕</i></p>
+      <
       <h3>Sobre Mim 🎀</h3>
       <p>
         Estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia enquanto curso Desenvolvimento de Sistemas no SENAI.
