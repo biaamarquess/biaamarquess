@@ -17,8 +17,6 @@ Estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia
 
 Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre experimentando ferramentas, linguagens e projetos. Cada repositório é um pedacinho do meu crescimento, dos desafios que enfrentei e das soluções que descobri no caminho. 
 
-Acredito que a programação é uma ferramenta poderosa para transformar ideias em realidade — seja automatizando tarefas, criando soluções inovadoras ou simplesmente facilitando a vida das pessoas. 
-
 - 🌸 Um programador não espera oportunidades — ele as cria com ‘if’, ‘else’ e muita persistência.
 
 ---
