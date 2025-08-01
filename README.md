@@ -1,4 +1,4 @@
-# <span style="color: #ff69b4;">Bem-vindo(a) ao Meu Perfil!</span>
+# <Bem-vindo(a) ao Meu Perfil! 
 
 <table>
   <tr>
