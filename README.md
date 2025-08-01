@@ -37,8 +37,9 @@ Tenho como objetivo me profissionalizar na área da programação. Quero dominar
 Cada repositório representa uma parte da minha jornada, com os aprendizados que conquistei, obstáculos que superei e as soluções que encontrei ao longo do caminho.
   
 ---
-
-### **Estatísticas do GitHub** 📊
+  <div align="center">
+    ### **Estatísticas do GitHub** 📊
+  </div>
 <br>
 <div align="center">
   <a href="https://github.com/biaamarquess">
