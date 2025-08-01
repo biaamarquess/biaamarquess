@@ -75,10 +75,10 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
   <i>✨ Obrigada por visitar meu perfil! Tenha um dia incrível! 💕</i>
 </p>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biaamarquess/biaamarquess/output/pacman-contribution-graph-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biaamarquess/biaamarquess/output/pacman-contribution-graph.svg"><img alt="pacman contribution graph" src="https://raw.githubusercontent.com/biaamarques/biaamarquess/output/pacman-contribution-graph.svg"></picture>
- 
 <br><br>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/biaamarquess/biaamarquess/output/pacman-contribution-graph-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/biaamarquess/biaamarquess/output/pacman-contribution-graph.svg"><img alt="pacman contribution graph" src="https://raw.githubusercontent.com/biaamarques/biaamarquess/output/pacman-contribution-graph.svg"></picture>
+ 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
