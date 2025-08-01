@@ -71,5 +71,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColor1=ff69b4&gradientColor2=ff1493&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColor1=ff3399&gradientColor2=ff0066&height=100&section=footer" />
 </p>
