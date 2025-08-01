@@ -27,7 +27,7 @@
 
 ---
   
-<i>Cada linha de código é um passo rumo a algo maior. Errar faz parte — persistir é o que transforma você em desenvolvedor.</i>
+<i>Não tenha medo dos desafios no código. Eles são oportunidades para aprender, crescer e se tornar um programador mais criativo e resiliente.</i>
 
 ---
 
