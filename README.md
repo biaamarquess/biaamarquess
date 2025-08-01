@@ -39,7 +39,7 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
 ---
 
 ### **Estatísticas do GitHub** 📊
-
+<br>
 <div align="center">
   <a href="https://github.com/biaamarquess">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biaamarquess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -48,7 +48,7 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
 </div>
 
 ---
-<br>
+
 <i>Programar é a arte de transformar problemas complexos em soluções simples e elegantes. Cada desafio vencido no código é uma conquista que fortalece sua jornada rumo à maestria.</i>
 
 ---
