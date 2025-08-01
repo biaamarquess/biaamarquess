@@ -1,4 +1,4 @@
-# <Bem-vindo(a) ao Meu Perfil! 
+# Bem-vindo(a) ao Meu Perfil! 
 
 <table>
   <tr>
