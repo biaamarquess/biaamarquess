@@ -13,7 +13,7 @@
 
 ### **Sobre Mim** 🎀
 
-Estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia enquanto curso Desenvolvimento de Sistemas no SENAI. Minha paixão por programação vai além do código: adoro desafios que unem front-end (criando interfaces bonitas e funcionais) e back-end (construindo a lógica que faz tudo funcionar).
+Estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia enquanto curso Desenvolvimento de Sistemas no SENAI. Minha paixão por programação vai além do código: adoro desafios que unem front-end e back-end.
 
 Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre experimentando ferramentas, linguagens e projetos. Cada repositório é um pedacinho do meu crescimento, dos desafios que enfrentei e das soluções que descobri no caminho. 
 
@@ -59,6 +59,10 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
 <p align="center">
   <a href="https://www.linkedin.com/in/beatriz-marques-ba1585335/ target_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rosa?style=for-the-badge&logo=linkedin&logoColor=white&color=pink" alt="LinkedIn">
+  </a>
+
+  <a href="mailto:beatrizmarquessouza123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Rosa?style=for-the-badge&logo=gmail&logoColor=white&color=pink" alt="Email">
   </a>
 </p>
 
