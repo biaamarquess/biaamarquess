@@ -20,6 +20,10 @@
 ### **Tecnologias que Uso** 💻
 
 ![Badge](https://img.shields.io/badge/HTML-Rosa?style=for-the-badge&logo=html5&logoColor=white&color=pink)
+![Badge](https://img.shields.io/badge/HTML-Rosa?style=for-the-badge&logo=html5&logoColor=white&color=pink)
+![Badge](https://img.shields.io/badge/CSS-Rosa?style=for-the-badge&logo=css3&logoColor=white&color=pink)
+![Badge](https://img.shields.io/badge/JavaScript-Rosa?style=for-the-badge&logo=javascript&logoColor=white&color=pink)
+![Badge](https://img.shields.io/badge/Python-Rosa?style=for-the-badge&logo=python&logoColor=white&color=pink)
 
 
 ---
