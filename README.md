@@ -30,6 +30,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-triz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-triz&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=its-triz&theme=radical)
+
+---
+
 ### **Entre em contato!** ☕ 
 
 <p align="center">
