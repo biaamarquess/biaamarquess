@@ -61,9 +61,6 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
     <img src="https://img.shields.io/badge/LinkedIn-Rosa?style=for-the-badge&logo=linkedin&logoColor=white&color=pink" alt="LinkedIn">
   </a>
   
- <a href="beatrizmarquessouza123@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Rosa?style=for-the-badge&logo=gmail&logoColor=white&color=pink" alt="Email">
-  </a>
 </p>
 
 ---
