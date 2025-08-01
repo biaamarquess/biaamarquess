@@ -6,7 +6,7 @@
 
 ---
 
-### *Sobre Mim* 🎀
+### Sobre Mim 🎀
 
 Estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia enquanto curso Desenvolvimento de Sistemas no SENAI. Minha paixão por programação vai além do código: adoro desafios que unem front-end (criando interfaces bonitas e funcionais) e back-end (construindo a lógica que faz tudo funcionar).
 
@@ -58,8 +58,6 @@ Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre expe
 <p align="center">
   <i>✨ Obrigada por visitar meu perfil! Tenha um dia incrível! 💕</i>
 </p>
-
-<br>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColor1=ffc0cb&gradientColor2=c71585&height=100&section=footer" />
