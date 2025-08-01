@@ -72,5 +72,5 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColor1=ffc0cb&gradientColor2=c71585&height=100&section=footer" />
-</p>
+</p> 
 
