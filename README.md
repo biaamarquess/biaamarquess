@@ -17,6 +17,8 @@ Estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia
 
 Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre experimentando ferramentas, linguagens e projetos. Cada repositório é um pedacinho do meu crescimento, dos desafios que enfrentei e das soluções que descobri no caminho. 
 
+Tenho como objetivo me profissionalizar na área da programação. Quero dominar tanto as bases técnicas quanto as habilidades práticas do mercado, construindo uma carreira sólida como desenvolvedora full-stack.
+
 - 🌸 Um programador não espera oportunidades — ele as cria com ‘if’, ‘else’ e muita persistência.
 
 ---
@@ -34,7 +36,7 @@ Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre expe
 
 ---
 
-### 📊 **Estatísticas do GitHub**
+### **Estatísticas do GitHub ** 📊
 
 <div align="center">
   <a href="https://github.com/biaamarquess">
@@ -45,7 +47,13 @@ Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre expe
 
 ---
 
-### *Entre em contato!* ☕ 
+### **Sobre meus Repositórios** 📚
+
+Cada repositório representa uma parte da minha jornada, com os aprendizados que conquistei, obstáculos que superei e as soluções que encontrei ao longo do caminho.
+
+---
+
+### **Entre em contato!** ☕ 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/beatriz-marques-ba1585335/">
@@ -64,6 +72,6 @@ Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre expe
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&gradientColor1=ffc0cb&gradientColor2=c71585&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
