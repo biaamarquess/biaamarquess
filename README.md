@@ -1,19 +1,18 @@
+#  Bem-vindo(a) ao Meu Perfil! 
+
 <div align="center">
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="flex: 1; padding-right: 20px;">
-      ### **Sobre Mim** 🎀
-
-      Estou no último ano do ensino médio no SESI, mergulhada no mundo da tecnologia enquanto curso **Desenvolvimento de Sistemas no SENAI**. Minha paixão por programação vai além do código: adoro desafios que unem **front-end** (criando interfaces bonitas e funcionais) e **back-end** (construindo a lógica que faz tudo funcionar).
-
-      Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre experimentando ferramentas, linguagens e projetos. Cada repositório é um pedacinho do meu crescimento, dos desafios que enfrentei e das soluções que descobri no caminho.
-
-      - 🌸 *"Um programador não espera oportunidades — ele as cria com ‘if’, ‘else’ e muita persistência."*
-    </div>
-    <div align="right" style="flex-shrink: 0;">
-      <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ6cjN0eHYwbTY0MXRzdG9uejZoNWp5NDBtNzBmNHU2dmFidXcyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="200" alt="Gif fofo">
-    </div>
-  </div>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ6cjN0eHYwbTY0MXRzdG9uejZoNWp5NDBtNzBmNHU2dmFidXcyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3UPNs8vXyJESQ/giphy.gif" width="200" alt="Gif fofo">
 </div>
+
+---
+
+### *Sobre Mim* 🎀
+
+Estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia enquanto curso Desenvolvimento de Sistemas no SENAI. Minha paixão por programação vai além do código: adoro desafios que unem front-end (criando interfaces bonitas e funcionais) e back-end (construindo a lógica que faz tudo funcionar).
+
+Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre experimentando ferramentas, linguagens e projetos. Cada repositório é um pedacinho do meu crescimento, dos desafios que enfrentei e das soluções que descobri no caminho. 
+
+- 🌸 Um programador não espera oportunidades — ele as cria com ‘if’, ‘else’ e muita persistência.
 
 ---
 
