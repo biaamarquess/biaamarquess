@@ -57,13 +57,9 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
 ### **Entre em contato!** ☕ 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/beatriz-marques-ba1585335/">
+  <a href="https://www.linkedin.com/in/beatriz-marques-ba1585335/ target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rosa?style=for-the-badge&logo=linkedin&logoColor=white&color=pink" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/its.triz_/">
-    <img src="https://img.shields.io/badge/Instagram-Rosa?style=for-the-badge&logo=instagram&logoColor=white&color=pink" alt="Instagram">
-  </a>
-  
 </p>
 
 ---
