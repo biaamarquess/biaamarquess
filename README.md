@@ -67,3 +67,9 @@
 <p align="center">
   <i>✨ Obrigada por visitar meu perfil! Tenha um dia incrível! 💕</i>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ff1493&height=100&section=footer" />
+</p>
