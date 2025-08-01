@@ -45,7 +45,7 @@
 
 ### **Entre em contato!** ☕ 
 
-<p >
+<p align="center">
   <a href="https://www.linkedin.com/in/beatriz-marques-ba1585335/">
     <img src="https://img.shields.io/badge/LinkedIn-Rosa?style=for-the-badge&logo=linkedin&logoColor=white&color=pink" alt="LinkedIn">
   </a>
