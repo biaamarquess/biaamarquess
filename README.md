@@ -48,7 +48,7 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
 </div>
 
 ---
-
+<br>
 <i>Programar é a arte de transformar problemas complexos em soluções simples e elegantes. Cada desafio vencido no código é uma conquista que fortalece sua jornada rumo à maestria.</i>
 
 ---
