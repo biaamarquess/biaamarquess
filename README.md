@@ -77,6 +77,10 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
   </a>
 </p>
 
+<p align="center">
+  Email 📧- Beatrizmarquessouza123@gmail.com
+</p>
+
 ---
 
 <p align="center">
