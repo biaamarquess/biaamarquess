@@ -87,7 +87,7 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
   <i>✨ Obrigada por visitar meu perfil! Tenha um dia incrível! 💕</i>
 </p>
 
-<br><br>
+<br>
 
 <img src="https://raw.githubusercontent.com/biaamarquess/biaamarquess/output/snake.svg" alt="Snake animation" />
  
