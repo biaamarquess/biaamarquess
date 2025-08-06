@@ -10,7 +10,7 @@
       <img src="https://i.gifer.com/5TMy.gif" width="200" alt="Gif fofo">
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
-      <h3>Sobre Mim </h3>
+      <h3>Sobre Mim *✧･ﾟ </h3>
       <p>
         Atualmente estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia enquanto curso Desenvolvimento de Sistemas no SENAI.
         Minha paixão por programação vai além do código: adoro desafios que unem front-end e back-end.
