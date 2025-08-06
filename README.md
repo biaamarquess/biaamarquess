@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=EA26A5&height=100&section=header"/>
+</p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB9E8&size=35&center=true&width=1000&lines=Ol%C3%A1+mundo%2C+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <table>
@@ -71,7 +75,6 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
   <a href="https://www.linkedin.com/in/beatriz-marques-ba1585335/ target_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Rosa?style=for-the-badge&logo=linkedin&logoColor=white&color=C7058B" alt="LinkedIn">
   </a>
-  
 </p>
 
 ---
