@@ -42,7 +42,6 @@
 ![Badge](https://img.shields.io/badge/SQL-Rosa?style=for-the-badge&logo=mysql&logoColor=white&color=F78FD5)
 ![Badge](https://img.shields.io/badge/Figma-Rosa?style=for-the-badge&logo=figma&logoColor=white&color=F78FD5)
 ![Badge](https://img.shields.io/badge/Canva-Rosa?style=for-the-badge&logo=canva&logoColor=white&color=F78FD5)
-![Badge](https://img.shields.io/badge/Windows-Rosa?style=for-the-badge&logo=windows&logoColor=white&color=F78FD5)
 ![Badge](https://img.shields.io/badge/Flask-Rosa?style=for-the-badge&logo=flask&logoColor=white&color=F78FD5)
 
 ---
