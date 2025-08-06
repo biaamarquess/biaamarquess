@@ -6,7 +6,7 @@
       <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV2dXpmYmZhbjJhdnF4dXpscTRpN2U4NTliYndpb3VjNzFwemxoNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" width="200" alt="Gif fofo">
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
-      <h3>Sobre Mim 🎀</h3>
+      <h3>Sobre Mim </h3>
       <p>
         Atualmente estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia enquanto curso Desenvolvimento de Sistemas no SENAI.
         Minha paixão por programação vai além do código: adoro desafios que unem front-end e back-end.
