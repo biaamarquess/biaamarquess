@@ -1,4 +1,4 @@
-# Bem-vindo(a) ao Meu Perfil! 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFB5E7&size=35&center=true&width=1000&lines=Ol%C3%A1+mundo%2C+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <table>
   <tr>
