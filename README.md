@@ -35,6 +35,11 @@
 ![Badge](https://img.shields.io/badge/CSS-Rosa?style=for-the-badge&logo=css3&logoColor=white&color=pink)
 ![Badge](https://img.shields.io/badge/JavaScript-Rosa?style=for-the-badge&logo=javascript&logoColor=white&color=pink)
 ![Badge](https://img.shields.io/badge/Python-Rosa?style=for-the-badge&logo=python&logoColor=white&color=pink)
+![Badge](https://img.shields.io/badge/Figma-Rosa?style=for-the-badge&logo=figma&logoColor=white&color=pink)
+![Badge](https://img.shields.io/badge/Canva-Rosa?style=for-the-badge&logo=canva&logoColor=white&color=pink)
+![Badge](https://img.shields.io/badge/Windows-Rosa?style=for-the-badge&logo=windows&logoColor=white&color=pink)
+![Badge](https://img.shields.io/badge/Flask-Rosa?style=for-the-badge&logo=flask&logoColor=white&color=pink)
+![Badge](https://img.shields.io/badge/SQL-Rosa?style=for-the-badge&logo=mysql&logoColor=white&color=pink)
 
 ---
 
