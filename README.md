@@ -24,7 +24,7 @@
         do mercado, construindo uma carreira sólida como desenvolvedora full-stack.
       </p>
       <ul>
-        <li>🌸 Um programador não espera oportunidades — ele as cria com ‘if’, ‘else’ e muita persistência.</li>
+        <li>Um programador não espera oportunidades — ele as cria com ‘if’, ‘else’ e muita persistência.</li>
       </ul>
     </td>
   </tr>
