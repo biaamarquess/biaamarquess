@@ -58,10 +58,11 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
 <br>
 
 <div align="center">
-  <a href="https://github.com/biaamarquess">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biaamarquess&show_icons=true&theme=dracula&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaamarquess&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
-  </a>
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=biaamarquess&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
+  
+  <!-- Top Linguagens -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biaamarquess&layout=compact&langs_count=8&theme=dracula&hide_border=true" />
 </div>
 
 ---
