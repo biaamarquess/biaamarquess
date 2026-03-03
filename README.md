@@ -10,19 +10,19 @@
       <img src="https://i.gifer.com/5TMy.gif" width="200" alt="Gif fofo">
     </td>
     <td style="padding-left: 20px; vertical-align: top;">
-      <h3>Sobre Mim *✧･ﾟ </h3>
-      <p>
-        Atualmente estou no último ano do ensino médio no SESI, mergulhado no mundo da tecnologia enquanto curso Desenvolvimento de Sistemas no SENAI.
-        Minha paixão por programação vai além do código: adoro desafios que unem front-end e back-end.
-      </p>
-      <p>
-        Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre experimentando ferramentas, linguagens e projetos.
-        Cada repositório é um pedacinho do meu crescimento, dos desafios que enfrentei e das soluções que descobri no caminho.
-      </p>
-      <p>
-        Tenho como objetivo me profissionalizar na área da programação. Quero dominar tanto as bases técnicas quanto as habilidades práticas
-        do mercado, construindo uma carreira sólida como desenvolvedora full-stack.
-      </p>
+      <h3>Sobre Mim </h3>
+     <p>
+  Atualmente estou cursando Ciência da Computação na FIAP, aprofundando ainda mais meus conhecimentos na área de tecnologia e desenvolvimento.
+  Minha paixão por programação vai além do código: adoro desafios que unem front-end e back-end.
+</p>
+<p>
+  Sou curiosa por natureza e adoro aprender coisas novas, então estou sempre experimentando ferramentas, linguagens e projetos.
+  Cada repositório é um pedacinho do meu crescimento, dos desafios que enfrentei e das soluções que descobri no caminho.
+</p>
+<p>
+  Tenho como objetivo me profissionalizar cada vez mais na área da programação. Quero dominar tanto as bases teóricas quanto as habilidades práticas
+  do mercado, construindo uma carreira sólida como desenvolvedora full-stack.
+</p>
       <ul>
         <li>Um programador não espera oportunidades — ele as cria com ‘if’, ‘else’ e muita persistência.</li>
       </ul>
