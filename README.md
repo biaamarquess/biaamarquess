@@ -91,8 +91,6 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
 </p>
 
 <br>
-
-<img src="https://raw.githubusercontent.com/biaamarquess/biaamarquess/output/snake.svg" alt="Snake animation" />
  
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=EA26A5&height=100&section=footer"/>
