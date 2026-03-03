@@ -70,7 +70,9 @@ Cada repositório representa uma parte da minha jornada, com os aprendizados que
 
 ---
 
-### **Entre em contato!** ☕ 
+<div align="center">
+  <h3>Entre em contato! ☕</h3>
+</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/beatriz-marques-ba1585335/ target_blank">
